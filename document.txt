@@ -1,0 +1,13 @@
+REQUIRED :
+- Bootstraps => CSS & JS
+
+SECTION :
+- Navbar
+- Home
+- About
+- Services
+- Portfolio
+- Testimonials
+- Contact
+- Footer
+
