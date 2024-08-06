@@ -8,7 +8,7 @@ SECTION :
 - About
 - Services
 - Portfolio
-- Testimonials
+- News
 - Contact
 - Footer
 
