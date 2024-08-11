@@ -1,14 +1,16 @@
 REQUIRED :
-- Bootstraps => CSS & JS
-- Jquery => JS
+- Color : #225687 (blue)
+- Font : Exo 2
+- CSS : Bootstraps, Font Awesome, Costum
+- JS : Bootstraps, Jquery, Typed, Costum
 
 SECTION :
 - Navbar
 - Home
 - About
 - Services
+- Experience
 - Portfolio
-- News
 - Contact
 - Footer
 
