@@ -1,3 +1,3 @@
 # Portfolio-web-1
 
-Membuat Website Portfolio Pribadi
+Latihan Membuat Website Portfolio Pribadi ke 2
